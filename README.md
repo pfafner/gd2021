@@ -6,6 +6,10 @@
 - [Información Básica](#id-info)
 - [News](#id-news)
 - [Material del curso](#id-material)
+	- [Apuntes](#id-apuntes)
+	- [Listas](#id-listas)
+	- [Proyectos](#id-proyectos)
+	- [Quizes](#id-quizes)
 - [Descripción](#id-descripcion)
 - [Contenido](#id-contenido)
 - [Bibliografía](#id-ref)
@@ -35,18 +39,23 @@
 
 <div id='id-material'/>
 # Material del curso
+
+<div id='id-apuntes'/>
 ## Apuntes
 
 [Aula 01](https://github.com/pfafner/pfafner.github.io/aulas/ad01.pdf)
 
 [Aula 02](https://pfafner.github.io/aulas/ad02.pdf)
 
+<div id='id-listas'/>
 ## Listas
 
 [Lista 01](https://github.com/pfafner/pfafner.github.io/listas/t1ad2020.pdf)
 
+<div id='id-proyectos'/>
 ## Proyectos
 
+<div id='id-quizes'/>
 ## Quizes
 
 
