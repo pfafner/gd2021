@@ -33,7 +33,7 @@
 
 ## Office Hours
 
-* Viernes de 17:00 a 18:00 hrs, o por solicitud del estudiante, o pueden enviar sus dudas por correo electrónico.
+* Viernes de 17:00 a 18:00 hrs, o por solicitud del estudiante, o pueden enviar sus dudas por correo electrónico <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">.
 
 
 # News
