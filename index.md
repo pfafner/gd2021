@@ -29,7 +29,7 @@
 
 ### Textos:
 
-* [W. Kühnel (2015). *Differential Geometry: Curves-- Surfaces -- Manifolds*.](http://library.lol/main/53E1F3479CBDF2FB78ADDD478E32BB89){:target="_blank"}
+* [W. Kühnel (2015). *Differential Geometry: Curves -- Surfaces -- Manifolds*.](http://library.lol/main/53E1F3479CBDF2FB78ADDD478E32BB89){:target="_blank"}
 
 * [M. do Carmo (2016). *Differential Geometry of curves and surfaces*.](http://library.lol/main/31E323C7F16E529A2B0B9355A2FE3E31){:target="_blank"}
 
