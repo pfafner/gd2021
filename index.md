@@ -17,10 +17,10 @@
 # Material del curso
 <div id='id-material'/>
 
-  **Semana**  | **Miércoles**                                           | **Viernes**                                             | **Actividades**
-  ----------- | ------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------
-  01          | 13.01.2020 [Aula 01](aulas/ad01.pdf){:target="_blank"}  | 15.01.2020 [Aula 02](aulas/ad02.pdf){:target="_blank"}  | 15.01.2020 [Lab 01](labs/lab01.pdf){:target="_blank"}
-  02          | 20.01.2020 [Aula 03](aulas/ad03.pdf){:target="_blank"}  | 22.01.2020 [Aula 04](aulas/ad04.pdf){:target="_blank"}  | 22.01.2020 [Lab 02](labs/lab02.pdf){:target="_blank"}
+  **No.**  | **Fecha**    | **Tópicos**                                                          | **Actividades**
+  -------- | ------------ | -------------------------------------------------------------------- |  -------------------------------------
+  01       | 13.01.2020   | Introducción <br/><br/> [Aula 01](aulas/ad01.pdf){:target="_blank"}  | [Lectura 1](lecturas/l1.pdf){:target="_blank"} <br/><br/> [Lectura 2](lecturas/l2.pdf){:target="_blank"}
+  02       | 15.01.2020   | Introducción <br/><br/> [Aula 02](aulas/ad02.pdf){:target="_blank"}  | 
 
 
 # Referencias
