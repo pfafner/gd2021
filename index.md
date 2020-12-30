@@ -20,7 +20,8 @@
   **No.**  | **Fecha**    | **Tópicos**                                                              | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------------ |  -------------------------------------
   01       | 13.01.2020   | Introducción <br/><br/> [Aula 01](aulas/ad01.pdf){:target="_blank"}      | [(D.J. Struik) Outline of a History of Differential Geometry I](lecturas/l1.pdf){:target="_blank"} <br/><br/> [(D.J. Struik) Outline of a History of Differential Geometry II](lecturas/l2.pdf){:target="_blank"}
-  02       | 15.01.2020   | Curvas regulares <br/><br/> [Aula 02](aulas/ad02.pdf){:target="_blank"}  | 
+  02       | 15.01.2020   | <br/><br/> [Aula 02](aulas/ad02.pdf){:target="_blank"}  | 
+  03       | 20.01.2020   | <br/><br/> [Aula 03](aulas/ad03.pdf){:target="_blank"}  | 
 
 
 # Referencias
