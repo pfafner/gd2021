@@ -46,6 +46,8 @@
 
 * [M. do Carmo (2000). *Differential Forms and Applications*.](http://library.lol/main/CE7E2584D231805DB923859930650BCF){:target="_blank"}
 
+* [L. Tu (2014?). *An Introduction to Manifolds*.](){:target="_blank"}
+
 * [J. M. Lee (2013). *Introduction to Topological Manifolds*.](http://library.lol/main/E1C4A1720315F49A2BA40F5C9C959430){:target="_blank"}
 
 * [J. M. Lee (2013). *Introduction to Smooth Manifolds*.](http://library.lol/main/00D8D81EDF732351D00BF90D16231216){:target="_blank"}
