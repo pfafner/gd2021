@@ -21,8 +21,7 @@
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
   01       | 13.01.2020   | Introducción <br/> [Aula 01](aulas/ad01.pdf){:target="_blank"}      | [(D. J. Struik) Outline of History of Differential Geometry I](lecturas/struik1933_I.pdf){:target="_blank"} <br/> [(D. J. Struik) Outline of History of Differential Geometry II](lecturas/struik1933_II.pdf){:target="_blank"}
   02       | 15.01.2020   | Curvas parametrizadas y curvas regulares <br/> [Aula 02](aulas/ad02.pdf){:target="_blank"}  | 
-  03       | 20.01.2020   | Longitud de arco <br/> [Aula 03](aulas/ad03.pdf){:target="_blank"}  | 
-  04       | 22.01.2020   | Teoría local de las curvas parametrizadas <br/> [Aula 04](aulas/ad04.pdf){:target="_blank"}  | 
+  03       | 20.01.2020   | Longitud de arco <br/> [Aula 03](aulas/ad03.pdf){:target="_blank"}  |  
 
 
 # Referencias
