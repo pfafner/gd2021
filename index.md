@@ -7,11 +7,15 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
 
 [Programa del curso](programa/Programa-gd2021.pdf){:target="_blank"}
 
+### Horario
+<div id='id-horario'/>
+
+* Miércoles y viernes, de 19:00 a 20:40 horas.
 
 ### Office Hours
 <div id='id-office'/>
 
-* Viernes de 17:00 a 18:00 horas, o por solicitud del estudiante. Pueden también enviar sus dudas por correo electrónico.
+* Viernes de 17:00 a 18:00 horas, o por solicitud del estudiante. También pueden enviar sus dudas por correo electrónico.
 
 
 # Material del curso
