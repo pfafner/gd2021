@@ -47,7 +47,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
 
 * [M. do Carmo (2000). *Differential Forms and Applications*.](http://library.lol/main/CE7E2584D231805DB923859930650BCF){:target="_blank"}
 
-* [L. Tu (2014?). *An Introduction to Manifolds*.](){:target="_blank"}
+* [L. Tu (2011). *An Introduction to Manifolds*.](http://library.lol/main/67E1DE09798BBB7A9EC6CB30F67FA582){:target="_blank"}
 
 * [J. M. Lee (2013). *Introduction to Topological Manifolds*.](http://library.lol/main/E1C4A1720315F49A2BA40F5C9C959430){:target="_blank"}
 
