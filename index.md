@@ -23,7 +23,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
 
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  01       | 13.01.2020   | Introducción <br/> [Aula 01](aulas/gd01.pdf){:target="_blank"}      | [(D. J. Struik) Outline of History of Differential Geometry I](lecturas/struik1933_I.){:target="_blank"} <br/> [(D. J. Struik) Outline of History of Differential Geometry II](lecturas/struik1933_II.pdf){:target="_blank"}
+  01       | 13.01.2020   | Introducción <br/> [Aula 01](aulas/gd01.pdf){:target="_blank"}      | [(D. J. Struik) Outline of History of Differential Geometry I](lecturas/struik1933_I.){:target="_blank"} <br/> [(D. J. Struik) Outline of History of Differential Geometry II](lecturas/struik1933_II.){:target="_blank"}
 
 
 # Referencias
