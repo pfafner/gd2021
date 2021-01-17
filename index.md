@@ -25,6 +25,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
   01       | 13.01.2020   | Introducción <br/> [Aula 01](aulas/aula01.pdf){:target="_blank"}               | [(D. J. Struik) Outline of History of Differential Geometry I](lecturas/struik1933_I.pdf){:target="_blank"} <br/> [(D. J. Struik) Outline of History of Differential Geometry II](lecturas/struik1933_II.pdf){:target="_blank"}
   02       | 15.01.2020   | Curvas parametrizadas <br/> [Aula 02](aulas/aula02.pdf){:target="_blank"}      | Do Carmo, secciones 1.2 y 1.3. <br/> Kühnel, sección 2A, pp. 7--11.
+  03         |           |                      |
 
 
 # Referencias
