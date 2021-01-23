@@ -26,7 +26,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   01       | 13.01.2021   | Introducción <br/> [Aula 01](aulas/aula01.pdf){:target="_blank"}               | [(D. J. Struik) Outline of History of Differential Geometry I](lecturas/struik1933_I.pdf){:target="_blank"} <br/> [(D. J. Struik) Outline of History of Differential Geometry II](lecturas/struik1933_II.pdf){:target="_blank"}
   02       | 15.01.2021   | Curvas parametrizadas <br/> [Aula 02](aulas/aula02.pdf){:target="_blank"}      | Do Carmo, secciones 1.2 y 1.3. <br/> Kühnel, sección 2A, pp. 7--11.
   03       | 20.01.2021   | Teoría local de curvas <br/> [Aula 03](aulas/aula03.pdf){:target="_blank"}     | Do Carmo, secciones 1.5 y 1.6. <br/> Kühnel, secciones 2B y 2C, pp. 12--27. <br/> [Curva toroidal (Geogebra)](otros/toroidal_curve.ggb){:target="_blank"}
-  04       | 22.01.2021   | Teorema fundamental de curvas [Aula 04](aulas/aula04.pdf){:target="_blank"}    | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28--32. <br/> *Para leer sobre el Teorema Fundamental de las EDO: Cap 8.* <br/> [(W. Kelley, A. Peterson) The Theory of EDO](http://library.lol/main/6CC3B361D2F1430322DE2E6379262779){:target="_blank"}
+  04       | 22.01.2021   | Teorema fundamental de curvas <br/> [Aula 04](aulas/aula04.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28--32. <br/> *Para leer sobre el Teorema Fundamental de las EDO: Cap 8.* <br/> [(W. Kelley, A. Peterson) The Theory of EDO](http://library.lol/main/6CC3B361D2F1430322DE2E6379262779){:target="_blank"}
 
 # Referencias
 <div id='id-ref'/>
