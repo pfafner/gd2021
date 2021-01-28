@@ -29,7 +29,8 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   04       | 22.01.2021   | Teorema fundamental de curvas <br/> [Aula 04](aulas/aula04.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28--32. <br/> *Para leer sobre el Teorema Fundamental de las EDO: Cap 8.* <br/> [(W. Kelley, A. Peterson) The Theory of EDO](http://library.lol/main/6CC3B361D2F1430322DE2E6379262779){:target="_blank"}
   L1       |  26.01.2021  |                                                                                | [Lista 1](listas/Lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: sábado 6 de febrero**
   05       |  27.01.2021  | Curvas en el espacio de Minkowski R3,1 <br/> [Aula 04](aulas/aula04.pdf){:target="_blank"} | 
-  06       |              |                                                                                | 
+  06       |  27.01.2021  | Curvas en el espacio de Minkowski R3,1 <br/> [Aula 04](aulas/aula04.pdf){:target="_blank"} | 
+  07       |              | 
 
 # Referencias
 <div id='id-ref'/>
