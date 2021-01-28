@@ -28,8 +28,9 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   03       | 20.01.2021   | Teoría local de curvas <br/> [Aula 03](aulas/aula03.pdf){:target="_blank"}     | Do Carmo, secciones 1.5 y 1.6. <br/> Kühnel, secciones 2B y 2C, pp. 12--27. <br/> [Curva toroidal (Geogebra)](otros/toroidal_curve.ggb){:target="_blank"}
   04       | 22.01.2021   | Teorema fundamental de curvas <br/> [Aula 04](aulas/aula04.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28--32. <br/> *Para leer sobre el Teorema Fundamental de las EDO: Cap 8.* <br/> [(W. Kelley, A. Peterson) The Theory of EDO](http://library.lol/main/6CC3B361D2F1430322DE2E6379262779){:target="_blank"}
   L1       |  26.01.2021  |                                                                                | [Lista 1](listas/Lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: sábado 6 de febrero**
-  05       |  27.01.2021  | Curvas en el espacio de Minkowski <br/> [Aula 05](aulas/aula05.pdf){:target="_blank"} <br/> La desigualdad isoperimétrica <br/> [Aula 06](aulas/aula06.pdf){:target="_blank"} | 
-  06       |              | 
+  05       |  27.01.2021  | Curvas en el espacio de Minkowski <br/> [Aula 05](aulas/aula05.pdf){:target="_blank"} |
+  06       |  27.01.2021  | La desigualdad isoperimétrica <br/> [Aula 06](aulas/aula06.pdf){:target="_blank"} | 
+  07       |              | 
 
 # Referencias
 <div id='id-ref'/>
