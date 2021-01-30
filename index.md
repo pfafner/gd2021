@@ -30,7 +30,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   L1       |  26.01.2021  |                                                                                | [Lista 1](listas/Lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: sábado 6 de febrero**
   05       |  27.01.2021  | Curvas en el espacio de Minkowski <br/> [Aula 05](aulas/aula05.pdf){:target="_blank"} |
   06       |  27.01.2021  | La desigualdad isoperimétrica <br/> [Aula 06](aulas/aula06.pdf){:target="_blank"} | 
-  07       |  29.01.2021  | El teorema de los 4 vértices <br/> [Aula 07](aulas/aula07.pdf){:target="_blank"} | **Comentario:** Al parecer sí hay generalizaciones del teorema de los 4 vértices a superficies. El siguiente artículo es un ejemplo <br/> [M Ghomi, 2010](https://www.ams.org/journals/proc/2011-139-01/S0002-9939-2010-10507-5/S0002-9939-2010-10507-5.pdf){:target="_blank"} 
+  07       |  29.01.2021  | El teorema de los 4 vértices <br/> [Aula 07](aulas/aula07.pdf){:target="_blank"} | [(M Ghomi, 2010)](https://www.ams.org/journals/proc/2011-139-01/S0002-9939-2010-10507-5/S0002-9939-2010-10507-5.pdf){:target="_blank"} <br/> [(De Turck et al., 2007)](http://www.ams.org/notices/200702/fea-gluck.pdf){:target="_blank"} <br/> **Comentario:** Al parecer sí hay generalizaciones del teorema de los 4 vértices a superficies. Por ejemplo, el artículo de De Turck et al. da otra prueba del teorema y de su recíproco, y lista varias generalizaciones, pero no a superficies.
 
 # Referencias
 <div id='id-ref'/>
