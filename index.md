@@ -29,9 +29,9 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   04       | 22.01.2021   | Teorema fundamental de curvas <br/> [Aula 04](aulas/aula04.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28--32. <br/> *Para leer sobre el Teorema Fundamental de las EDO: Cap 8.* <br/> [(W. Kelley, A. Peterson) The Theory of EDO](http://library.lol/main/6CC3B361D2F1430322DE2E6379262779){:target="_blank"} 
   L1       |  26.01.2021  |                                                                                | [Lista 1](listas/Lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: sábado 6 de febrero**
   05       |  27.01.2021  | Curvas en el espacio de Minkowski <br/> [Aula 05](aulas/aula05.pdf){:target="_blank"} | Kühnel, sección 2E, pp. 33--37.
-  06       |  27.01.2021  | La desigualdad isoperimétrica <br/> [Aula 06](aulas/aula06.pdf){:target="_blank"} | 
+  06       |  27.01.2021  | La desigualdad isoperimétrica <br/> [Aula 06](aulas/aula06.pdf){:target="_blank"} | Do Carmo, sección 1.7, Kühnel, sección 2F.
   07       |  29.01.2021  | El teorema de los 4 vértices <br/> [Aula 07](aulas/aula07.pdf){:target="_blank"} | [(Jackson, 1945)](https://www.jstor.org/stable/2371979?seq=1){:target="_blank"}  [(Ghomi, 2010)](https://www.ams.org/journals/proc/2011-139-01/S0002-9939-2010-10507-5/S0002-9939-2010-10507-5.pdf){:target="_blank"}  [(DeTurck, 2007)](http://www.ams.org/notices/200702/fea-gluck.pdf){:target="_blank"} <br/> **Comentario:** Hay varias generalizaciones del teorema de los 4 vértices. Por ejemplo, el artículo de DeTurck et al. da otra prueba del teorema y de su recíproco, y lista varias generalizaciones, pero no a superficies.
-  08       |  03.02.2021  | La fórmula de Cauchy-Crotfon <br/> [Aula 08](aulas/aula08.pdf){:target="_blank"} | 
+  08       |  03.02.2021  | La fórmula de Cauchy-Crotfon <br/> [Aula 08](aulas/aula08.pdf){:target="_blank"} | Do Carmo, sección 1.7.
 
 
 # Referencias
