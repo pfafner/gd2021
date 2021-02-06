@@ -32,6 +32,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   06       |  27.01.2021  | La desigualdad isoperimétrica <br/> [Aula 06](aulas/aula06.pdf){:target="_blank"} | Do Carmo, sección 1.7, Kühnel, sección 2F.
   07       |  29.01.2021  | El teorema de los 4 vértices <br/> [Aula 07](aulas/aula07.pdf){:target="_blank"} | [(Jackson, 1945)](https://www.jstor.org/stable/2371979?seq=1){:target="_blank"}  [(Ghomi, 2010)](https://www.ams.org/journals/proc/2011-139-01/S0002-9939-2010-10507-5/S0002-9939-2010-10507-5.pdf){:target="_blank"}  [(DeTurck, 2007)](http://www.ams.org/notices/200702/fea-gluck.pdf){:target="_blank"} <br/> **Comentario:** Hay varias generalizaciones del teorema de los 4 vértices. Por ejemplo, el artículo de DeTurck et al. da otra prueba del teorema y de su recíproco, y lista varias generalizaciones, pero no a superficies.
   08       |  03.02.2021  | La fórmula de Cauchy-Crofton <br/> [Aula 08](aulas/aula08.pdf){:target="_blank"} | Do Carmo, sección 1.7.
+  09       |  05.02.2021  | Superficies regulares <br/> [Aula 09](aulas/aula09.pdf){:target="_blank"}      | Do Carmo, sección 2.1. Kühnel, sección 2A, pp. 55--58.
 
 
 # Referencias
