@@ -34,6 +34,8 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   08       |  03.02.2021  | La fórmula de Cauchy-Crofton <br/> [Aula 08](aulas/aula08.pdf){:target="_blank"} | Do Carmo, sección 1.7.
   09       |  05.02.2021  | Superficies regulares <br/> [Aula 09](aulas/aula09.pdf){:target="_blank"}      | Do Carmo, secciones 2.1 y 2.2, pp. 51--58. Kühnel, sección 3A, pp. 55--58.
   10       |  12.02.2021  | Superficies regulares <br/> [Aula 10](aulas/aula10.pdf){:target="_blank"}      | Do Carmo, sección 2.3.
+  11       |  17.02.2021  | Funciones diferenciables en superficies <br/> [Aula 11](aulas/aula11.pdf){:target="_blank"}      | Do Carmo, sección 2.4.
+  
 
 
 # Referencias
