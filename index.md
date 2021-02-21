@@ -36,7 +36,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   10       |  12.02.2021  | Superficies regulares <br/> [Aula 10](aulas/aula10.pdf){:target="_blank"}      | Do Carmo, sección 2.2.
   11       |  17.02.2021  | Funciones diferenciables en superficies <br/> [Aula 11](aulas/aula11.pdf){:target="_blank"} | Do Carmo, sección 2.3.
   L2       |  17.02.2021  |                                                                                | [Lista 2](listas/Lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: domingo 28 de febrero**
-  12       |  19.02.2021  | El plano tangente <br/> [Aula 12](aulas/aula12.pdf){:target="_blank"} | Do Carmo, sección 2.4.
+  12       |  19.02.2021  | El plano tangente <br/> [Aula 12](aulas/aula12.pdf){:target="_blank"} | Do Carmo, sección 2.4. <br/> Ya aparecen corregidos los errores en las diapositivas.
   
 
 # Referencias
