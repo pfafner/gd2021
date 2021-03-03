@@ -39,8 +39,8 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   12       |  19.02.2021  | El plano tangente <br/> [Aula 12](aulas/aula12.pdf){:target="_blank"} | Do Carmo, sección 2.4. <br/> Ya aparecen corregidos los errores en las diapositivas.
   13       |  24.02.2021  | Orientabilidad de superficies <br/> [Aula 13](aulas/aula13.pdf){:target="_blank"} | Kühnel, sección 3A, pp. 63--65. Do Carmo, sección 2.6. <br/> Allí hay otra prueba de que la banda de Möbius no es orientable.
   14       |  26.02.2021  | Primera forma fundamental <br/> [Aula 14](aulas/aula14.pdf){:target="_blank"} | Kühnel, sección 3A. Do Carmo, sección 2.5.
-  14       |  26.02.2021  | Primera forma fundamental <br/> [Aula 14](aulas/aula14.pdf){:target="_blank"} | Kühnel, sección 3A. Do Carmo, sección 2.5.
-  14       |  26.02.2021  | Primera forma fundamental <br/> [Aula 14](aulas/aula14.pdf){:target="_blank"} | Kühnel, sección 3A. Do Carmo, sección 2.5.
+  15       |  03.03.2021  | Primera forma fundamental <br/> [Aula 14](aulas/aula14.pdf){:target="_blank"} | Kühnel, sección 3A. Do Carmo, sección 2.5.
+  L3       |  03.03.2021  | Primera forma fundamental <br/> [Aula 14](aulas/aula14.pdf){:target="_blank"} | Kühnel, sección 3A. Do Carmo, sección 2.5.
   
 
 # Referencias
