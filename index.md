@@ -42,6 +42,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   15       |  03.03.2021  | Áreas en superficies <br/> [Aula 15](aulas/aula15.pdf){:target="_blank"} | Kühnel, sección 3A. Do Carmo, sección 2.5.
   L3       |  03.03.2021  |                                                                               | [Lista 3](listas/Lista03.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 16 de marzo**
   16       |  05.03.2021  | La aplicación de Gauss. Segunda forma fundamental <br/> [Aula 16](aulas/aula16.pdf){:target="_blank"} | Do Carmo, sección 3.1.
+  17       |  10.03.2021  |                                                                               |
   
 
 # Referencias
