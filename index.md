@@ -43,6 +43,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   L3       |  03.03.2021  |                                                                               | [Lista 3](listas/Lista03.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 16 de marzo**
   16       |  05.03.2021  | La aplicación de Gauss. Segunda forma fundamental <br/> [Aula 16](aulas/aula16.pdf){:target="_blank"} | Do Carmo, sección 3.1.
   17       |  10.03.2021  | Curvaturas en sperficies. Indicatriz de Dupin. <br/> [Aula 17](aulas/aula17.pdf){:target="_blank"} | Do Carmo, sección 3.2 y 3.3.
+  18       |  12.03.2021  | Segunda forma en coordenads locales. Ecuación de Weingarten. <br/> [Aula 18](aulas/aula18.pdf){:target="_blank"} | Do Carmo, sección 3.3.
   
 
 # Referencias
