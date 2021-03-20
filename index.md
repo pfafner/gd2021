@@ -45,7 +45,9 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   17       |  10.03.2021  | Curvaturas en sperficies. Indicatriz de Dupin. <br/> [Aula 17](aulas/aula17.pdf){:target="_blank"} | Kühnel, sección 3B. Do Carmo, sección 3.2 y 3.3.
   18       |  12.03.2021  | Segunda forma en coordenads locales. Ecuación de Weingarten. <br/> [Aula 18](aulas/aula18.pdf){:target="_blank"} | Kühnel, sección 3B. Do Carmo, sección 3.3.
   19       |  17.03.2021  | Superficies regladas. Superficies de revolución. <br/> [Aula 19](aulas/aula19.pdf){:target="_blank"} | Kühnel, sección 3C. Do Carmo, sección 3.5.A
-  20       |  17.03.2021  | Superficies mínimas. <br/> [Aula 20](aulas/aula20.pdf){:target="_blank"} | Kühnel, sección 3D. Do Carmo, sección 3.5.B
+  20       |  19.03.2021  | Superficies mínimas. <br/> [Aula 20](aulas/aula20.pdf){:target="_blank"} | Kühnel, sección 3D. Do Carmo, sección 3.5.B
+  S1       |  20.03.2021  | Seminario 1 (ver tema al final del aula 20.                              | **Fecha de entrega: <br/> Temas 1, 2, 3: miércoles 07 de abril <br/> Temas 4, 5: viernes 09 de abril**
+
 
 # Referencias
 <div id='id-ref'/>
