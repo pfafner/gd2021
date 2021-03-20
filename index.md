@@ -44,8 +44,8 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   16       |  05.03.2021  | La aplicación de Gauss. Segunda forma fundamental <br/> [Aula 16](aulas/aula16.pdf){:target="_blank"} | Kühnel, sección 3B. Do Carmo, sección 3.1.
   17       |  10.03.2021  | Curvaturas en sperficies. Indicatriz de Dupin. <br/> [Aula 17](aulas/aula17.pdf){:target="_blank"} | Kühnel, sección 3B. Do Carmo, sección 3.2 y 3.3.
   18       |  12.03.2021  | Segunda forma en coordenads locales. Ecuación de Weingarten. <br/> [Aula 18](aulas/aula18.pdf){:target="_blank"} | Kühnel, sección 3B. Do Carmo, sección 3.3.
-  19       |  17.03.2021  | Superficies regladas. Superficies de revolución. <br/> [Aula 19](aulas/aula19.pdf){:target="_blank"} | Kühnel, sección 3C. Do Carmo, sección 3.4.
-  
+  19       |  17.03.2021  | Superficies regladas. Superficies de revolución. <br/> [Aula 19](aulas/aula19.pdf){:target="_blank"} | Kühnel, sección 3C. Do Carmo, sección 3.5.A
+  20       |  17.03.2021  | Superficies mínimas. <br/> [Aula 20](aulas/aula20.pdf){:target="_blank"} | Kühnel, sección 3D. Do Carmo, sección 3.5.B
 
 # Referencias
 <div id='id-ref'/>
