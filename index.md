@@ -53,12 +53,12 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
 <div id='id-sem1'/>
 
   **No.**  | **Fecha**    | **Expositor**                                  | **Tópicos**
-  -------- | ------------ | ---------------------------------------------------------------------|  -------------------------------------
-  01       | 07.04.2021   | Mariana   <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Catenoide + Helicoide + ¿cuál es la relación entre ambas?
-  02       | 07.04.2021   | Estefanía <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Enneper + Superficie de Riemmann
-  03       | 07.04.2021   | José      <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Henneberg + Trinoide
-  04       | 09.04.2021   | Juan      <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Costa + Superficie de Bour
-  05       | 09.04.2021   | Estuardo  <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Scherk I y II + *Saddle tower*
+  -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
+  01       | 07.04.2021   | Mariana     <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Catenoide + Helicoide + ¿cuál es la relación entre ambas?
+  02       | 07.04.2021   | Estefanía   <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Enneper + Superficie de Riemmann
+  03       | 07.04.2021   | José        <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Henneberg + Trinoide
+  04       | 09.04.2021   | Juan Carlos <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Costa + Superficie de Bour
+  05       | 09.04.2021   | Estuardo    <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Scherk I y II + *Saddle tower*
   
 
 # Referencias
