@@ -46,8 +46,20 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   18       |  12.03.2021  | Segunda forma en coordenads locales. Ecuación de Weingarten. <br/> [Aula 18](aulas/aula18.pdf){:target="_blank"} | Kühnel, sección 3B. Do Carmo, sección 3.3.
   19       |  17.03.2021  | Superficies regladas. Superficies de revolución. <br/> [Aula 19](aulas/aula19.pdf){:target="_blank"} | Kühnel, sección 3C. Do Carmo, sección 3.5.A
   20       |  19.03.2021  | Superficies mínimas. <br/> [Aula 20](aulas/aula20.pdf){:target="_blank"} | Kühnel, sección 3D. Do Carmo, sección 3.5.B
-  S1       |  20.03.2021  | Seminario 1 (ver tema al final del aula 20.                              | **Fecha de presentación: <br/> Temas 1, 2, 3: miércoles 07 de abril <br/> Temas 4, 5: viernes 09 de abril**
+  S1       |  20.03.2021  | Seminario 1 (ver tema al final del aula 20, o abajo).                    | **Fecha de presentación: <br/> Temas 1, 2, 3: miércoles 07 de abril <br/> Temas 4, 5: viernes 09 de abril**
 
+
+# Temas para el primer seminario
+<div id='id-material'/>
+
+  **No.**  | **Fecha**    | **Expositor**                                  | **Tópicos**
+  -------- | ------------ | ---------------------------------------------------------------------|  -------------------------------------
+  01       | 07.04.2021   | Mariana   <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Catenoide + Helicoide + ¿cuál es la relación entre ellos?
+  02       | 07.04.2021   | Estefanía <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Enneper + Superficie de Riemmann
+  03       | 07.04.2021   | José      <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Henneberg + Trinoide
+  04       | 09.04.2021   | Juan      <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Costa + Superficie de Bour
+  05       | 09.04.2021   | Estuardo  <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Scherk I y II + *Saddle tower*
+  
 
 # Referencias
 <div id='id-ref'/>
