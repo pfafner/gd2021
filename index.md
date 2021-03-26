@@ -47,7 +47,8 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   19       |  17.03.2021  | Superficies regladas. Superficies de revolución. <br/> [Aula 19](aulas/aula19.pdf){:target="_blank"} | Kühnel, sección 3C. Do Carmo, sección 3.5.A
   20       |  19.03.2021  | Superficies mínimas. <br/> [Aula 20](aulas/aula20.pdf){:target="_blank"} | Kühnel, sección 3D. Do Carmo, sección 3.5.B
   S1       |  20.03.2021  | Seminario 1 (ver tema al final del aula 20, o abajo).                    | **Fecha de presentación: <br/> Temas 1, 2, 3: miércoles 07 de abril <br/> Temas 4, 5: viernes 09 de abril**
-
+  21       |  24.03.2021  | Superficies mínimas II. La representación de Weierstrass. <br/> [Aula 21](aulas/aula21.pdf){:target="_blank"} | Kühnel, sección 3D.
+  
 
 # Temas para el primer seminario
 <div id='id-sem1'/>
