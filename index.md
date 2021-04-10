@@ -49,8 +49,8 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   S1       |  20.03.2021  | Seminario 1 (ver tema al final del aula 20, o abajo).                    | **Fecha de presentación: <br/> Temas 1, 2, 3: miércoles 07 de abril <br/> Temas 4, 5: viernes 09 de abril**
   21       |  24.03.2021  | Superficies mínimas II. La representación de Weierstrass. <br/> [Aula 21](aulas/aula21.pdf){:target="_blank"} | Kühnel, sección 3D.
   22       |  31.03.2021  | Superficies en el espacio de Minkowski. Hiperficies en Rn.               | Kühnel, sección 3E.
-  S1       |  07.04.2021  | Seminario 1: Ejemplos de superficies mínimas.                            | 
-  S1       |  09.04.2021  | Seminario 1: Ejemplos de superficies mínimas.                            | 
+  S1       |  07.04.2021  | Seminario 1                                                              | Ejemplos de superficies mínimas.
+  S1       |  09.04.2021  | Seminario 1                                                              | Ejemplos de superficies mínimas.
   
 
 # Temas para el primer seminario
