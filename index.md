@@ -59,11 +59,11 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
 
   **No.**  | **Fecha**    | **Expositor**                                                          | **Tópicos**
   -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
-  01       | 07.04.2021   | Mariana     <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Catenoide y Helicoide
-  02       | 07.04.2021   | Estefanía   <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Enneper + Superficie de Costa
-  03       | 07.04.2021   | José        <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Henneberg + Trinoide
-  05       | 09.04.2021   | Estuardo    <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Scherk I y II + *Saddle tower*
-  04       | 14.04.2021   | Juan Carlos <br/> [Presentación](seminarios/s1.pdf){:target="_blank"}  | Superficie de Riemann + Superficie de Bour
+  01       | 07.04.2021   | Mariana     <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | Catenoide y Helicoide
+  02       | 07.04.2021   | Estefanía   <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | Superficie de Enneper + Superficie de Costa
+  03       | 07.04.2021   | José        <br/> [Presentación](seminario1/Henneberg.pdf){:target="_blank"}  | Superficie de Henneberg + Trinoide
+  05       | 09.04.2021   | Estuardo    <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | Superficie de Scherk I y II + *Saddle tower*
+  04       | 14.04.2021   | Juan Carlos <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | Superficie de Riemann + Superficie de Bour
   
 
 # Referencias
