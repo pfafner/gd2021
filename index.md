@@ -51,6 +51,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   22       |  31.03.2021  | Superficies en el espacio de Minkowski. Hiperficies en Rn.               | Kühnel, sección 3E.
   S1       |  07.04.2021  | Seminario 1                                                              | Ejemplos de superficies mínimas.
   S1       |  09.04.2021  | Seminario 1                                                              | Ejemplos de superficies mínimas.
+  L4       |  13.04.2021  |                                                                          | [Lista 4](listas/Lista04.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 16 de marzo**
   
 
 # Temas para el primer seminario
