@@ -53,6 +53,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   S1       |  09.04.2021  | Seminario 1                                                              | Ejemplos de superficies mínimas.
   L4       |  13.04.2021  |                                                                          | [Lista 4](listas/Lista04.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 27 de abril**
   23       |  14.04.2021  | Teoría intrínseca de superficies. Símbolos de Christoffel. El Teorema *Egregium*. <br/> [Aula 23](aulas/aula23.pdf){:target="_blank"} | Do Carmo, sección 4.3.
+  24       |  16.04.2021  | Teorema de Bonnet. Cálculo de símbolos de Christoffel. <br/> [Aula 23](aulas/aula24.pdf){:target="_blank"} | Do Carmo, sección 4.3.
 
 
 # Temas para el primer seminario
