@@ -65,7 +65,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   02       | 07.04.2021   | Estefanía   <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | Superficie de Enneper + Superficie de Costa
   03       | 07.04.2021   | José        <br/> [Presentación](seminario1/Henneberg.pdf){:target="_blank"}  | Superficie de Henneberg + Trinoide
   05       | 09.04.2021   | Estuardo    <br/> [Presentación](seminario1/Scherk.pdf){:target="_blank"}  | Superficie de Scherk I y II + *Saddle tower*
-  04       | 14.04.2021   | Juan Carlos <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | Superficie de Costa + Superficie de Bour
+  04       | 14.04.2021   | Juan Carlos <br/> [Presentación](seminario1/Costa_Bour.pdf){:target="_blank"}  | Superficie de Costa + Superficie de Bour
   
 
 # Referencias
