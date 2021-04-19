@@ -54,6 +54,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   L4       |  13.04.2021  |                                                                          | [Lista 4](listas/Lista04.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 27 de abril**
   23       |  14.04.2021  | Teoría intrínseca de superficies. Símbolos de Christoffel. El Teorema *Egregium*. <br/> [Aula 23](aulas/aula23.pdf){:target="_blank"} | Do Carmo, sección 4.3.
   24       |  16.04.2021  | Teorema de Bonnet. Cálculo de símbolos de Christoffel. <br/> [Aula 23](aulas/aula24.pdf){:target="_blank"} | Do Carmo, sección 4.3.
+  .        |              |                                                                          |
 
 
 # Temas para el primer seminario
@@ -61,7 +62,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
 
   **No.**  | **Fecha**    | **Expositor**                                                          | **Tópicos**
   -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
-  01       | 07.04.2021   | Mariana     <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | Catenoide y Helicoide
+  01       | 07.04.2021   | Mariana     <br/> [Presentación](seminario1/Catenoide_Helicoide.pdf){:target="_blank"}  | Catenoide y Helicoide
   02       | 07.04.2021   | Estefanía   <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | Superficie de Enneper + Superficie de Costa
   03       | 07.04.2021   | José        <br/> [Presentación](seminario1/Henneberg.pdf){:target="_blank"}  | Superficie de Henneberg + Trinoide
   05       | 09.04.2021   | Estuardo    <br/> [Presentación](seminario1/Scherk.pdf){:target="_blank"}  | Superficie de Scherk I y II + *Saddle tower*
