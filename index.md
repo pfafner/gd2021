@@ -55,16 +55,8 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   23       |  14.04.2021  | Teoría intrínseca de superficies. Símbolos de Christoffel. El Teorema *Egregium*. <br/> [Aula 23](aulas/aula23.pdf){:target="_blank"} | Do Carmo, sección 4.3.
   24       |  16.04.2021  | Teorema de Bonnet. Cálculo de símbolos de Christoffel. <br/> [Aula 24](aulas/aula24.pdf){:target="_blank"} | Do Carmo, sección 4.3.
   25       |  23.04.2021  | Vecindad tubular. Variación de curvas. Geodésicas. <br/> [Aula 25](aulas/aula25.pdf){:target="_blank"} | Do Carmo, sección 4.4. Montiel Ros, Capítulo 4 (vecindad tubular), Montiel Ros, sección 7.5. 
-  26       |              | Derivada covariante. Geodésicas II                                       |
-  27       |              | Transporte paralelo. Geodésicas III                                      |
-  28       |              | La aplicación exponencial                                                |
-  29       |              | El Teorema de Gauss-Bonnet                                               |
-  30       |              | Aplicaciaones del Teorema de Gauss-Bonnet                                |
-  31       |              | Variedades diferenciables                                                |
-  32       |              |                                 |
-  33       |              |                                 |
-  34       |              |                                 |
-  35       |              |                                 |
+  26       |              |                                                                           |
+  
 
 
 # Temas para el primer seminario
