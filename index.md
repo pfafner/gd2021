@@ -57,9 +57,9 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   25       |  23.04.2021  | Vecindad tubular. Variación de curvas. Geodésicas. <br/> [Aula 25](aulas/aula25.pdf){:target="_blank"} | Do Carmo, sección 4.4. Montiel Ros, Capítulo 4 (vecindad tubular), Montiel Ros, sección 7.5. 
   26       |              | Derivada covariante. Geodésicas II                                       |
   27       |              | Transporte paralelo. Geodésicas III                                      |
-  28       |              | La aplicación Exponencial                                                |
-  29       |              | El Teorema de gauss-Bonnet                                               |
-  30       |              | Aplicaciaones del Teorema de gauss-Bonnet                                |
+  28       |              | La aplicación exponencial                                                |
+  29       |              | El Teorema de Gauss-Bonnet                                               |
+  30       |              | Aplicaciaones del Teorema de Gauss-Bonnet                                |
   31       |              | Variedades diferenciables                                                |
   32       |              |                                 |
   33       |              |                                 |
