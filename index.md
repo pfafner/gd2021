@@ -52,10 +52,10 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   S1       |  07.04.2021  | Seminario 1                                                              | Ejemplos de superficies mínimas.
   S1       |  09.04.2021  | Seminario 1                                                              | Ejemplos de superficies mínimas.
   L4       |  13.04.2021  |                                                                          | [Lista 4](listas/Lista04.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 27 de abril**
-  23       |  14.04.2021  | Teoría intrínseca de superficies. Símbolos de Christoffel. El Teorema *Egregium*. <br/> [Aula 23](aulas/aula23.pdf){:target="_blank"} | Do Carmo, sección 4.3.
-  24       |  16.04.2021  | Teorema de Bonnet. Cálculo de símbolos de Christoffel. <br/> [Aula 24](aulas/aula24.pdf){:target="_blank"} | Do Carmo, sección 4.3.
+  23       |  14.04.2021  | Teoría intrínseca de superficies. Símbolos de Christoffel. El Teorema *Egregium*. <br/> [Aula 23](aulas/aula23.pdf){:target="_blank"} | Do Carmo, sección 4.3. Kühnel, sección 4C.
+  24       |  16.04.2021  | Teorema de Bonnet. Cálculo de símbolos de Christoffel. <br/> [Aula 24](aulas/aula24.pdf){:target="_blank"} | Do Carmo, sección 4.3. Kühnel, sección 4D.
   25       |  23.04.2021  | Vecindad tubular. Variación de curvas. Geodésicas. <br/> [Aula 25](aulas/aula25.pdf){:target="_blank"} | Do Carmo, sección 4.4. Montiel Ros, Capítulo 4 (vecindad tubular), Montiel Ros, sección 7.5. 
-  26       |  28.04.2021  | La derivada covariante                                                    | 
+  26       |  28.04.2021  | La derivada covariante. Ecuación de las geodésicas. [Aula 26](aulas/aula26.pdf){:target="_blank"} | Do Carmo, sección 4.4. Kühnel, sección 4A. 
   .        |  30.04.2021  |                                                                           | 
 
 
