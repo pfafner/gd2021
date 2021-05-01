@@ -56,7 +56,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   24       |  16.04.2021  | Teorema de Bonnet. Cálculo de símbolos de Christoffel. <br/> [Aula 24](aulas/aula24.pdf){:target="_blank"} | Do Carmo, sección 4.3. Kühnel, sección 4D.
   25       |  23.04.2021  | Vecindad tubular. Variación de curvas. Geodésicas. <br/> [Aula 25](aulas/aula25.pdf){:target="_blank"} | Do Carmo, sección 4.4. Montiel Ros, Capítulo 4 (vecindad tubular), Montiel Ros, sección 7.5. 
   26       |  28.04.2021  | La derivada covariante. Ecuación de las geodésicas. [Aula 26](aulas/aula26.pdf){:target="_blank"} | Do Carmo, sección 4.4. Kühnel, sección 4A. 
-  27       |  30.04.2021  | Ejemplos de geodésicas. Transporte paralelo.                           | 
+  27       |  30.04.2021  | Transporte paralelo. Geodésicas en superficies de revolución. [Aula 27](aulas/aula27.pdf){:target="_blank"} | Do Carmo, sección 4.4. 
   .        |              |                                                                        | 
 
 
