@@ -58,8 +58,8 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   26       |  28.04.2021  | La derivada covariante. Ecuación de las geodésicas. [Aula 26](aulas/aula26.pdf){:target="_blank"} | Do Carmo, sección 4.4. Kühnel, sección 4A. 
   27       |  30.04.2021  | Transporte paralelo. Geodésicas en superficies de revolución. [Aula 27](aulas/aula27.pdf){:target="_blank"} | Do Carmo, sección 4.4. 
   28       |  05.05.2021  | El Teorema de Gauss-Bonnet. [Aula 28](aulas/aula28.pdf){:target="_blank"} | Do Carmo, sección 4.5. Kühnel, sección 4F. 
+  29       |  07.05.2021  | El Teorema de Gauss-Bonnet global. Aplicaciones. <br/> [Aula 29](aulas/aula29.pdf){:target="_blank"} | Do Carmo, sección 4.5. Kühnel, sección 4F. 
   .        |              |                                                                           | 
-
 
 # Temas para el primer seminario
 <div id='id-sem1'/>
