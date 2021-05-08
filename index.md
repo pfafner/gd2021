@@ -61,6 +61,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   29       |  07.05.2021  | El Teorema de Gauss-Bonnet global. Aplicaciones. <br/> [Aula 29](aulas/aula29.pdf){:target="_blank"} | Do Carmo, sección 4.5. Kühnel, sección 4F. 
   .        |              |                                                                           | 
 
+
 # Temas para el primer seminario
 <div id='id-sem1'/>
 
@@ -72,6 +73,18 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   05       | 09.04.2021   | Estuardo    <br/> [Presentación](seminario1/Scherk.pdf){:target="_blank"}  | Superficie de Scherk I y II + *Saddle tower*
   04       | 14.04.2021   | Juan Carlos <br/> [Presentación](seminario1/Costa_Bour.pdf){:target="_blank"}  | Superficie de Costa + Superficie de Bour
   
+  
+# Temas para el segundo seminario
+<div id='id-sem2'/>
+
+  **No.**  | **Fecha**    | **Expositor**                                                          | **Tópicos**
+  -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
+  01       | ??.05.2021   | José        <br/> [Presentación](seminario2/.pdf){:target="_blank"}    | Sección 6A
+  02       | ??.05.2021   | Estefanía   <br/> [Presentación](seminario2/.pdf){:target="_blank"}    | Sección 6B
+  03       | ??.05.2021   | Estuardo    <br/> [Presentación](seminario2/.pdf){:target="_blank"}    | Sección 6C
+  05       | ??.06.2021   |             <br/> [Presentación](seminario2/.pdf){:target="_blank"}    | Sección 8A
+  04       | ??.06.2021   |             <br/> [Presentación](seminario2/.pdf){:target="_blank"}    | Sección 8C
+
 
 # Referencias
 <div id='id-ref'/>
