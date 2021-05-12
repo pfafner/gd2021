@@ -59,8 +59,8 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   27       |  30.04.2021  | Transporte paralelo. Geodésicas en superficies de revolución. [Aula 27](aulas/aula27.pdf){:target="_blank"} | Do Carmo, sección 4.4. 
   28       |  05.05.2021  | El Teorema de Gauss-Bonnet local. <br/> [Aula 28](aulas/aula28.pdf){:target="_blank"} | Do Carmo, sección 4.5. Kühnel, sección 4F. 
   29       |  07.05.2021  | El Teorema de Gauss-Bonnet global. Aplicaciones. <br/> [Aula 29](aulas/aula29.pdf){:target="_blank"} | Do Carmo, sección 4.5. Kühnel, sección 4F. 
-  L5       |  11.05.2021  |                                                                          | [Lista 4](listas/Lista04.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 27 de abril**
-  .        |              |                                                                           | 
+  L5       |  11.05.2021  |                                                                          | [Lista 5](listas/Lista05.pdf){:target="_blank"} <br/> **Fecha de entrega: viernes 4 de junio**
+  30       |              |                                                                           | 
 
 
 # Temas para el primer seminario
