@@ -61,7 +61,8 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   29       |  07.05.2021  | El Teorema de Gauss-Bonnet global. Aplicaciones. <br/> [Aula 29](aulas/aula29.pdf){:target="_blank"} | Do Carmo, sección 4.5. Kühnel, sección 4F. 
   L5       |  11.05.2021  |                                                                          | [Lista 5](listas/Lista05.pdf){:target="_blank"} <br/> **Fecha de entrega: viernes 4 de junio**
   30       |  12.05.2021  | Variedades diferenciables. <br/> [Aula 30](aulas/aula30.pdf){:target="_blank"} | Lee *Smooth Manifolds*, Cap. 1 y 2. Apéndice A.
-  
+  31       |  14.05.2021  | Funciones sobre variedades diferenciables.                               | 
+   
 
 
 # Temas para el primer seminario
