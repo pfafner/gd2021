@@ -84,11 +84,11 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
 
   **No.**  | **Fecha**    | **Expositor**                                                          | **Tópicos**
   -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
-  01       | ??.05.2021   | José        <br/> [Presentación](seminario2/.pdf){:target="_blank"}    | Sección 6A
-  02       | ??.05.2021   | Estefanía   <br/> [Presentación](seminario2/.pdf){:target="_blank"}    | Sección 6B
-  03       | ??.05.2021   | Estuardo    <br/> [Presentación](seminario2/.pdf){:target="_blank"}    | Sección 6C
-  05       | ??.06.2021   |             <br/> [Presentación](seminario2/.pdf){:target="_blank"}    | Sección 8A
-  04       | ??.06.2021   |             <br/> [Presentación](seminario2/.pdf){:target="_blank"}    | Sección 8B
+  01       | 26.05.2021   | José        <br/> [Presentación](seminario2/.pdf){:target="_blank"}    | Sección 6A
+  02       | 26.05.2021   | Estefanía   <br/> [Presentación](seminario2/.pdf){:target="_blank"}    | Sección 6B
+  03       | 28.05.2021   | Estuardo    <br/> [Presentación](seminario2/.pdf){:target="_blank"}    | Sección 6C
+  05       | 02.06.2021   |             <br/> [Presentación](seminario2/.pdf){:target="_blank"}    | Sección 8A
+  04       | 04.06.2021   |             <br/> [Presentación](seminario2/.pdf){:target="_blank"}    | Sección 8B
 
 
 # Referencias
