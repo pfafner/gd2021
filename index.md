@@ -62,7 +62,8 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   L5       |  11.05.2021  |                                                                          | [Lista 5](listas/Lista05.pdf){:target="_blank"} <br/> **Fecha de entrega: viernes 4 de junio**
   30       |  12.05.2021  | Variedades diferenciables. <br/> [Aula 30](aulas/aula30.pdf){:target="_blank"} | Lee *Smooth Manifolds*, Cap. 1. Apéndice A.
   31       |  14.05.2021  | Funciones sobre variedades diferenciables. <br/> [Aula 31](aulas/aula31.pdf){:target="_blank"} | Lee *Smooth Manifolds*, Cap. 2. Apéndice A y C.
-  32       |  19.05.2021  | Vectores tangentes.                                                      |
+  32       |  19.05.2021  | Vectores tangentes. Variedades Riemannianas.                             | Lee Lee *Smooth Manifolds*, Cap. 3. Kühnel, Cap. 5.
+  
     
    
 
