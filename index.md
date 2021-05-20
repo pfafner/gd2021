@@ -63,9 +63,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   30       |  12.05.2021  | Variedades diferenciables. <br/> [Aula 30](aulas/aula30.pdf){:target="_blank"} | Lee *Smooth Manifolds*, Cap. 1. Apéndice A.
   31       |  14.05.2021  | Funciones sobre variedades diferenciables. <br/> [Aula 31](aulas/aula31.pdf){:target="_blank"} | Lee *Smooth Manifolds*, Cap. 2. Apéndice A y C.
   32       |  19.05.2021  | Vectores tangentes. Variedades Riemannianas.                             | Lee Lee *Smooth Manifolds*, Cap. 3. Kühnel, Cap. 5.
-  
-    
-   
+  33       |  21.05.2021  |                                                                          |    
 
 
 # Temas para el primer seminario
