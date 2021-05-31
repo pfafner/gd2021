@@ -65,7 +65,9 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   32       |  19.05.2021  | Vectores tangentes. Variedades Riemannianas. <br/> [Aula 32](aulas/aula32.pdf){:target="_blank"} | Lee *Smooth Manifolds*, Cap. 3. Kühnel, Cap. 5.
   33       |  21.05.2021  | Formas diferenciales <br/> [Aula 33](aulas/aula33.pdf){:target="_blank"} | Do Carmo *Differential Forms*. Capítulo 1 a 3. 
   S2       |  26.05.2021  | Presentación de Seminarios | Kühnel, Capítulo 6. 
-  S2       |  28.05.2021  | Formas diferenciales <br/> [Aula 33](aulas/aula33.pdf){:target="_blank"} | Do Carmo *Differential Forms*. Capítulo 1 a 3. 
+  S2       |  28.05.2021  | Presentación de Seminarios | Kühnel, Capítulo 6.
+  S2       |  02.06.2021  | Presentación de Seminarios | Kühnel, Capítulo 6.
+  
 
 # Temas para el primer seminario
 <div id='id-sem1'/>
