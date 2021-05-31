@@ -64,9 +64,9 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   31       |  14.05.2021  | Funciones sobre variedades diferenciables. <br/> [Aula 31](aulas/aula31.pdf){:target="_blank"} | Lee *Smooth Manifolds*, Cap. 2. Apéndice A y C.
   32       |  19.05.2021  | Vectores tangentes. Variedades Riemannianas. <br/> [Aula 32](aulas/aula32.pdf){:target="_blank"} | Lee *Smooth Manifolds*, Cap. 3. Kühnel, Cap. 5.
   33       |  21.05.2021  | Formas diferenciales <br/> [Aula 33](aulas/aula33.pdf){:target="_blank"} | Do Carmo *Differential Forms*. Capítulo 1 a 3. 
-  S2       |  26.05.2021  | Presentación de Seminarios | Kühnel, Capítulo 6. 
-  S2       |  28.05.2021  | Presentación de Seminarios | Kühnel, Capítulo 6.
-  S2       |  02.06.2021  | Presentación de Seminarios <br/> Discusión sobre Ecuaciones de Campo de Einstein. | Kühnel, Capítulo 8. <br/> Leer artículos [S. Walters (2016)](https://arxiv.org/pdf/1608.05752.pdf){:target="_blank"} y [A. Pe'er (2014)](http://www.physics.ucc.ie/apeer/PY4112/Einstein.pdf){:target="_blank"}
+  S2       |  26.05.2021  | Presentación de Seminarios. | Kühnel, Capítulo 6. 
+  S2       |  28.05.2021  | Presentación de Seminarios. | Kühnel, Capítulo 6.
+  S2       |  02.06.2021  | Presentación de Seminarios. <br/> Discusión sobre Ecuaciones de Campo de Einstein. | Kühnel, Capítulo 8. <br/> Leer artículos [S. Walters (2016)](https://arxiv.org/pdf/1608.05752.pdf){:target="_blank"} y [A. Pe'er (2014)](http://www.physics.ucc.ie/apeer/PY4112/Einstein.pdf){:target="_blank"}
 
   
 
