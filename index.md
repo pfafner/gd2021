@@ -91,7 +91,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   02       | 28.05.2021   | Estefanía   <br/> [Presentación](seminario2/Curvatura_Seccional.pptx){:target="_blank"}    | Sección 6B: Curvatura Seccional
   03       | 28.05.2021   | Estuardo    <br/> [Presentación](seminario2/Tensor_de_Ricci_y_de_Einstein.pdf){:target="_blank"}    | Sección 6C: Tensor de Ricci y Tensor de Einstein
   04       | 02.06.2021   | Mariana     <br/> [Presentación](seminario2/Funcional_de_Hilbert-Einstein.pdf){:target="_blank"}    | Sección 8A: Funcional de Hilbert-Einstein
-  05       | 02.06.2021   | Juan Carlos <br/> [Presentación](seminario2/Ecuaciones_de_campo.pdf){:target="_blank"}    | Sección 8B: Las Ecuaciones de Campo
+  05       | 02.06.2021   | Juan Carlos <br/> [Presentación](seminario2/Ecuaciones_de_Campo.pdf){:target="_blank"}    | Sección 8B: Las Ecuaciones de Campo
 
 
 # Referencias
